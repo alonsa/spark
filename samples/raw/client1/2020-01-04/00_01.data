@@ -1,0 +1,11 @@
+{"client_id":"client1","user_id":"user1","account_id": 1,"activity":"activity_1","module":"module_1"}
+{"client_id":"client1","user_id":"user1","account_id": 1,"activity":"activity_1","module":"module_1"}
+{"client_id":"client1","user_id":"user1","account_id": 1,"activity":"activity_1","module":"module_2"}
+{"client_id":"client1","user_id":"user1","account_id": 1,"activity":"activity_2","module":"module_3"}
+{"client_id":"client1","user_id":"user2","account_id": 1,"activity":"activity_1","module":"module_1"}
+{"client_id":"client1","user_id":"user2","account_id": 1,"activity":"activity_1","module":"module_1"}
+{"client_id":"client1","user_id":"user1","account_id": 2,"activity":"activity_2","module":"module_1"}
+{"client_id":"client1","user_id":"user1","account_id": 2,"activity":"activity_1","module":"module_2"}
+{"client_id":"client1","user_id":"user2","account_id": 2,"activity":"activity_1","module":"module_2"}
+{"client_id":"client1","user_id":"user2","account_id": 2,"activity":"activity_2","module":"module_2"}
+{"client_id":"client1","user_id":"user2","account_id": 2,"activity":"activity_2","module":"module_2"}

@@ -1,0 +1,5 @@
+target/
+.idea
+samples/activities
+samples/modules
+samples/users
